@@ -6,3 +6,4 @@ LESSON 5 - Going Further with CNNs
 LESSON 6 - Transfer Learning
 LESSON 7 - Saving and Loading Models
 LESSON 8 - Time Series Forecasting
+LESSON 9 - Introduction to Tensorflow Lite
